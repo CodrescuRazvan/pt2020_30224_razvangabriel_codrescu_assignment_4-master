@@ -1,0 +1,5 @@
+Products : Price
+B : 1.0
+A : 3.0
+C : 4.0
+Total: 8.0
